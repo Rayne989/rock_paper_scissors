@@ -1,1 +1,8 @@
-test
+Use the math.random method
+make it generate 3 numbers, 0,1,2
+to each of these numbers, attach rock, paper, scissors
+
+first write the math.random function:
+so the function will be called getNumber
+the paramater will be set to ()
+return Math.floor
